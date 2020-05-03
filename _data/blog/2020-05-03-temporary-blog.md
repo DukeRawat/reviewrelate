@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: blog/temporary-blog
+path: /blog/temporary-blog
 date: 2020-05-03T10:05:26.406Z
 title: Temporary blog
 thumbnail: /assets/rrlogo.png
