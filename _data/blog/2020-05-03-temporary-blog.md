@@ -3,7 +3,7 @@ template: BlogPost
 path: blog/temporary-blog
 date: 2020-05-03T10:05:26.406Z
 title: Temporary blog
-thumbnail: /assets/rrlogo.png
+thumbnail: ''
 metaDescription: temporary blog
 ---
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla velit sit amet lectus tincidunt, quis suscipit tortor maximus. Vestibulum facilisis sit amet tortor sed vestibulum.
