@@ -19,6 +19,7 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
+        <html lang="en" amp />
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}

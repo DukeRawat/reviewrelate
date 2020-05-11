@@ -16,11 +16,20 @@ export default () => (
     `}
     render={data => (
       <div className="hero-header">
-        <div className="headline">{data.site.siteMetadata.home.title}</div>
-        <div className="primary-content">
-          <p>{data.site.siteMetadata.home.description}</p>
+        <div>
+          <div className="headline">
+            <img className="rrlogo" src="/assets/rrlogo.png" alt="Temporary blog- Featured Shot"/>
+            <p className="box3 sb14">{data.site.siteMetadata.home.title}</p>
+          </div>
+          <div className="primary-content">
+            <p>{data.site.siteMetadata.home.description}</p>
+          </div>
+          <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
         </div>
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
+        <div>
+          <h2>Recent Posts &darr;</h2>
+          <Link to='/contact' className="button -primary">Get in touch &darr;</Link>
+        </div>
       </div>
     )}
   />

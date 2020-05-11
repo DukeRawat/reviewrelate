@@ -7,13 +7,13 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
+    title: `Review Relate`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     // change this to you website url
     siteUrl: `https://delog-w3layouts.netlify.com/`, 
     home: {
-      title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      title: `Hi! I'm Roto`,
+      description: `The keeper of this digital home for software reviews. I help in providing good quality review for great software and applications desireable by professionals. My goal is to help you out in selecting the best application for your business. I try to carefully curate the most useful quality software applications available. :) max info minimal clutter`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
